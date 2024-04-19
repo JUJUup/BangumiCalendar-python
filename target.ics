@@ -389,11 +389,12 @@ DTSTART;VALUE=DATE:20240424
 DTSTAMP;VALUE=DATE:20240419
 UID:411974-3-jujuupup
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「夕陽と～」「やすみの！」\n「「コ
- ーコーセーラジオ～！」」\n\n「この番組は、偶然にも
- 同じ高校、同じクラスのわたしたちふたりが、\n皆さま
- に教室の空気をお届けするラジオ番組です！」\n声優と
- してもクラスメイトとしても、\nと〜っても仲良
+DESCRIPTION:「夕阳与夜澄与留宿」\n\n\n「夕陽と～」「や
+ すみの！」\n「「コーコーセーラジオ～！」」\n\n「こ
+ の番組は、偶然にも同じ高校、同じクラスのわたした
+ ちふたりが、\n皆さまに教室の空気をお届けするラジオ
+ 番組です！」\n声優としてもクラスメイトとしても、\n
+ と〜っても仲良
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1573,6 +1574,20 @@ SUMMARY:GIRLS BAND CRY 12
 DTSTART;VALUE=DATE:20240621
 DTSTAMP;VALUE=DATE:20240419
 UID:431767-12-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n「怒りも喜びも哀しさも全部ぶちこ
+ め。」\n\n高校2年、学校を中退して単身東京で大学を目
+ 指すことになった主人公。\n仲間に裏切られてどうして
+ いいか分からない少女。\n両親に捨てられて、大都会で
+ 一人バイトで食いつないでいる女の子。\n\nこの
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIRLS BAND CRY 13
+DTSTART;VALUE=DATE:20240628
+DTSTAMP;VALUE=DATE:20240419
+UID:431767-13-jujuupup
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「怒りも喜びも哀しさも全部ぶちこ
  め。」\n\n高校2年、学校を中退して単身東京で大学を目
