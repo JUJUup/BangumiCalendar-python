@@ -533,12 +533,12 @@ DTSTART;VALUE=DATE:20240626
 DTSTAMP;VALUE=DATE:20240626
 UID:411974-12-jujuupup
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“夕阳和～”“安美的！”“高中生
- 广播~！”\n“本节目是由碰巧就读于同一所高中、同一
- 个班级的我们，为大家带来教室氛围的节目！”无论是
- 作为配音员还是作为同班同学都关系极好的二人，放松
- 地做配音员广播，但这仅仅是“台前”的模样。夕阳的
- 本性是阴沉的
+DESCRIPTION:「夕阳与夜澄想要突破」\n\n\n“夕阳和～”“
+ 安美的！”“高中生广播~！”\n“本节目是由碰巧就读
+ 于同一所高中、同一个班级的我们，为大家带来教室氛
+ 围的节目！”无论是作为配音员还是作为同班同学都关
+ 系极好的二人，放松地做配音员广播，但这仅仅是“台
+ 前”的模样。夕阳的本性是阴沉的
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -726,6 +726,90 @@ SUMMARY:吹响！悠风号 第三季 13
 DTSTART;VALUE=DATE:20240630
 DTSTAMP;VALUE=DATE:20240626
 UID:283643-13-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20240626
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20240731
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20240828
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20240925
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20241030
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
+ 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
+ な新入部員がやって来るのか、\n部長として皆をまとめ
+ ていけるのか、\nそして悲願の目標である「全国大会金
+ 賞」を達成できるのか――。\n\nそんな思いを
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:吹响！悠风号 第三季 0
+DTSTART;VALUE=DATE:20241127
+DTSTAMP;VALUE=DATE:20240626
+UID:283643-0-jujuupup
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
  長の黄前久美子は、期待と不安を抱いていた。\n\nどん
